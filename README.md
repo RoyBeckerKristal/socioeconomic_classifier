@@ -10,21 +10,21 @@ Both required processing and merger, which I performed in excel and created the 
 
 Following are the files:
 
-requirements.txt - the installation requirements
+* requirements.txt - the installation requirements
 
-socioeconomic_classifier.py - the main flow and various utilities
+* socioeconomic_classifier.py - the main flow and various utilities
 
-sec_descriptive_stats.py - a script describing and charting the data and emerging tendencies
+* sec_descriptive_stats.py - a script describing and charting the data and emerging tendencies
 
-sec_optimizers.py - optimization mechanisms for the various classifiers
+* sec_optimizers.py - optimization mechanisms for the various classifiers
 
-votes_knesset_25.csv - the data input file
+* votes_knesset_25.csv - the data input file
 
-SEC - directory containing files storing classifier models already trained.
+* SEC - directory containing files storing classifier models already trained.
 
-Socioeconomic Classifier.pptx - a PowerPoint presentation describing the project in detail.
+* Socioeconomic Classifier.pptx - a PowerPoint presentation describing the project in detail.
 
-
+ 
 To read more, please view the presentation.
 
 For installation, download all the files to a directory, use the commandline (cmd), navigate to that directory, and enter:
