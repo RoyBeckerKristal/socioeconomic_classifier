@@ -22,7 +22,7 @@ Following are the files:
 
 * SEC - directory containing files storing classifier models already trained.
 
-* Socioeconomic Classifier.pptx - a PowerPoint presentation describing the project in detail.
+* Socioeconomic Classifier.pdf - a printout of a Google Slides presentation describing the project in detail.
 
  
 To read more, please view the presentation.
