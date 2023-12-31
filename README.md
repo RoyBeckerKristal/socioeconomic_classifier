@@ -24,6 +24,7 @@ SEC - directory containing files storing classifier models already trained.
 
 Socioeconomic Classifier.pptx - a PowerPoint presentation describing the project in detail.
 
+
 To read more, please view the presentation.
 
 For installation, download all the files to a directory, use the commandline (cmd), navigate to that directory, and enter:
